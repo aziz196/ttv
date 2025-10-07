@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.namu.wiki/i/hN-CczHXsbUgNpfy7niNRVnnqoJbf01_zfcAu3-qZ3U8yMdAec2JvUlmtgfWTDF9sZbHxlUuRpgoSTbg_KWK0g.webp", SET. ENT
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://i.namu.wiki/i/hN-CczHXsbUgNpfy7niNRVnnqoJbf01_zfcAu3-qZ3U8yMdAec2JvUlmtgfWTDF9sZbHxlUuRpgoSTbg_KWK0g.webp", SET. ENT
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/473545.m3u8
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISK84xJacVr1rA6r1Q-cD0_ZO0RWtQWGYmh767dM0H8rFH92vkZt3ncQ&s=10", FORMOSA TV
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISK84xJacVr1rA6r1Q-cD0_ZO0RWtQWGYmh767dM0H8rFH92vkZt3ncQ&s=10", FORMOSA TV
 http://exm3u.extraott.com/live/ZUL96376/UG4VTW4E/473546.m3u8
 
 
-#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://inilahonline.com/wp-content/uploads/2023/02/Taiwan-Plus-TV.jpg", FORMOSA TV
+#EXTINF:-1 group-title="TAIWAN TV" tvg-logo="https://inilahonline.com/wp-content/uploads/2023/02/Taiwan-Plus-TV.jpg", FORMOSA TV
 http://exm3u.extraott.com/ZUL96376/UG4VTW4E/473544
 http://exm3u.extraott.com/ZUL96376/UG4VTW4E/473543
 http://exm3u.extraott.com/ZUL96376/UG4VTW4E/473542
